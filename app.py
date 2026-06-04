@@ -123,14 +123,6 @@ st.markdown(
     """
 )
 
-if predicted_species == "Setosa":
-    st.image("images/setosa.jpg", width=300)
-
-elif predicted_species == "Versicolor":
-    st.image("images/versicolor.jpg", width=300)
-
-else:
-    st.image("images/virginica.jpg", width=300)
 
 st.sidebar.markdown("---")
 st.sidebar.metric(
