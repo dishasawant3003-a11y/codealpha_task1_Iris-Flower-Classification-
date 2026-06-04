@@ -104,6 +104,9 @@ The target variable is the flower species.
 * Improve UI with custom styling
 
 ---
+## Live Demo
+
+[Click Here to Use the App](https://dishasawant3003-a11y-codealpha-task1-iris-flower-cla-app-sbd8i3.streamlit.app/)
 
 ## Author
 
